@@ -25,7 +25,7 @@
 - robots.txt and sitemap.xml files
 
 #### Files Added/Modified
-- `js/main.js` - Complete JavaScript functionality
+- `js/scripts.js` - Complete JavaScript functionality
 - `robots.txt` - Search engine crawler instructions
 - `sitemap.xml` - Site structure for search engines
 - All HTML files updated with SEO meta tags and semantic structure
