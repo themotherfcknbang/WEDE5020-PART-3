@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+Sitemap: https://www.greenfuturefoundation.org/sitemap.xml
